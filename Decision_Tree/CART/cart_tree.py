@@ -109,14 +109,14 @@ if __name__ == "__main__":
     print("best_v =", best_v2)
 
 
-    # t = np.linspace(0, 3)
-    # plt.plot(best_v + 0*t, t, c='g', label="x=2.45")
-    # t1 = np.linspace(best_v, 7.5)
-    # plt.plot(t1, best_v2 + 0*t1, c='b', label="y=1.75")
-    # plt.legend()
-    # plt.scatter(X[y == 0, 0], X[y == 0, 1])
-    # plt.scatter(X[y == 1, 0], X[y == 1, 1])
-    # plt.scatter(X[y == 2, 0], X[y == 2, 1])
-    # plt.show()
+    t = np.linspace(0, 3)
+    plt.plot(best_v + 0*t, t, c='g', label="x=2.45")
+    t1 = np.linspace(best_v, 7.5)
+    plt.plot(t1, best_v2 + 0*t1, c='b', label="y=1.75")
+    plt.legend()
+    plt.scatter(X[y == 0, 0], X[y == 0, 1])
+    plt.scatter(X[y == 1, 0], X[y == 1, 1])
+    plt.scatter(X[y == 2, 0], X[y == 2, 1])
+    plt.show()
 
 
