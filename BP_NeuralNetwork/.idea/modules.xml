@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test_BP.iml" filepath="$PROJECT_DIR$/.idea/Test_BP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test_CNN/.idea/Test_CNN.iml" filepath="$PROJECT_DIR$/../Test_CNN/.idea/Test_CNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test_Dectree/.idea/Test_Dectree.iml" filepath="$PROJECT_DIR$/../Test_Dectree/.idea/Test_Dectree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test_EEG/.idea/Test_EEG.iml" filepath="$PROJECT_DIR$/../Test_EEG/.idea/Test_EEG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test_FMRI/.idea/Test_FMRI.iml" filepath="$PROJECT_DIR$/../Test_FMRI/.idea/Test_FMRI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test_KNN/.idea/Test_KNN.iml" filepath="$PROJECT_DIR$/../Test_KNN/.idea/Test_KNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test_LR/.idea/Test_LR.iml" filepath="$PROJECT_DIR$/../Test_LR/.idea/Test_LR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test_LinearR/.idea/Test_LinearR.iml" filepath="$PROJECT_DIR$/../Test_LinearR/.idea/Test_LinearR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test_PCA/.idea/Test_PCA.iml" filepath="$PROJECT_DIR$/../Test_PCA/.idea/Test_PCA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test_SR/.idea/Test_SR.iml" filepath="$PROJECT_DIR$/../Test_SR/.idea/Test_SR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test_SVM/.idea/Test_SVM.iml" filepath="$PROJECT_DIR$/../Test_SVM/.idea/Test_SVM.iml" />
+    </modules>
+  </component>
+</project>
